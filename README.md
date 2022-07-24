@@ -1,4 +1,4 @@
 # DFS_ADO
-Algoritmo de busqueda en profundidad 
-Inteligencia Artificial
-Ejemplo con corridas ADO 
+Depth Search Algorithm
+Artificial Intelligence
+
